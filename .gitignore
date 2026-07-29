@@ -1,0 +1,18 @@
+# Playwright MCP scratch output
+.playwright-mcp/
+
+# Node
+node_modules/
+npm-debug.log*
+
+# OS
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# Editor
+.vscode/
+.idea/
+
+# Internal build map (regenerable)
+assets/_map.json
